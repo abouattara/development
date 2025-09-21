@@ -1,0 +1,11 @@
+# =============================================================================
+# FICHIER: requirements.txt (à créer séparément)
+# =============================================================================
+
+"""
+# Dépendances requises pour l'application de pointage
+# Installation: pip install -r requirements.txt
+
+Pillow>=9.0.0
+openpyxl>=3.0.0
+"""
